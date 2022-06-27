@@ -1,16 +1,40 @@
-### Hi there 👋
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D12AQEeOHUlSyCGQw/article-cover_image-shrink_600_2000/0/1622428126770?e=1660176000&v=beta&t=enqQHYTYtPXIh2AnFs6mOCUjTfgRFTNTkuF4_KuKj-A)](https://github.com/HimaSpandana)
+<h1 align="center">Hi 👋, I'm Hima Barla</h1>
+<h3 align="center">I am Data Science Enthusiast, in search of job</h3>
 
-<!--
-**HimaSpandana/HimaSpandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align = "right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif"> 
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himaspandana&label=Profile%20views&color=0e75b6&style=flat" alt="himaspandana" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/HimaSpandana](https://github.com/HimaSpandana)
+
+- 📝 I regularly write articles on [https://medium.com/@himabarla2021](https://medium.com/@himabarla2021)
+
+- 💬 Ask me about **SQL, Python, Machine Learning, Tableau, R**
+
+- 📫 How to reach me **himabarla26@gmail.com**
+
+- 📄 Know about my experiences [https://himaspandana.github.io/Himasb/](https://himaspandana.github.io/Himasb/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hima barla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hima barla" height="30" width="40" /></a>
+<a href="https://kaggle.com/spandana spandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="spandana spandana" height="30" width="40" /></a>
+<a href="https://fb.com/hima barla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hima barla" height="30" width="40" /></a>
+<a href="https://instagram.com/himabarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himabarla" height="30" width="40" /></a>
+<a href="https://medium.com/@spandanabarla26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spandanabarla26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/himabarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himabarla" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/hima barla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hima barla" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="python" width="40" height="40"/> </a><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="python" width="40" height="40"/> </a><a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="python" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" width="40" height="40"/> </a><a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://thehotskills.com/wp-content/uploads/2021/11/Scikit-Learn-Logo.jpg" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" alt="mysql" width="40" height="40"/> </a><a href="https://hive.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://siliconangle.com/files/2013/05/tableau-logo-USE-THIS-ONE-300x160.png" alt="mysql" width="40" height="40"/> </a><a href="https://aws.amazon" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="mysql" width="40" height="40"/> </a><a href=" https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/339/4169339-middle.png" alt="mysql" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="mysql" width="40" height="40"/> </a><a href="https://matlab.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="mysql" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="mysql" width="40" height="40"/> </a><a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="mysql" width="40" height="40"/> </a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" alt="mysql" width="40" height="40"/> </a><a href=" https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://westcampus.yale.edu/sites/default/files/event-images/r_0.png" alt="mysql" width="40" height="40"/> </a>
+  
+  [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=himaspandana&&theme=xcode)](https://github.com/HimaSpandana)
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himaspandana&show_icons=true&locale=en&layout=compact" alt="himaspandana" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himaspandana&show_icons=true&locale=en" alt="himaspandana" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himaspandana&" alt="himaspandana" /></p>
