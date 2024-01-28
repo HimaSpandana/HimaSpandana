@@ -1,5 +1,5 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D12AQEeOHUlSyCGQw/article-cover_image-shrink_600_2000/0/1622428126770?e=1660176000&v=beta&t=enqQHYTYtPXIh2AnFs6mOCUjTfgRFTNTkuF4_KuKj-A)](https://github.com/HimaSpandana)
-<h1 align="center">Hi 👋, I'm Hima Barla</h1>
+<h1 align="center">Hi 👋, I'm Spandana Barla</h1>
 <h3 align="center">I am Data Science Enthusiast, in search of job</h3>
 
 <img align = "right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif"> 
